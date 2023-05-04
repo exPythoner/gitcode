@@ -1,2 +1,0 @@
-# gitcode
-test_study
